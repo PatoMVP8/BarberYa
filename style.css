@@ -1,0 +1,21 @@
+.header-container{
+    background-color: darkgray;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.logo{
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    width: 150px;
+    height: 95px;
+}
+
+
+
+
+.navegador{
+    font-size: 25px;   
+}
